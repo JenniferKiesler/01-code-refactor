@@ -2,7 +2,16 @@
 
 ## Description
 
-This website was refactored to make it more accessible. It meets the following accessibility standards:
+This website was refactored to make it more accessible. 
+
+
+User Story
+
+As a marketing agency, I want a codebase that follows accessibilty standards so that our own site is optimized for search engines.
+
+Acceptance Criteria
+
+It meets the following accessibility standards that this assignment required:
 -   The source code has semantic HTML elements
 -   The HTML elements follow a logical structure independent of styling and positioning
 -   Images have accessible alt attributes
@@ -11,7 +20,7 @@ This website was refactored to make it more accessible. It meets the following a
 
 ## Visuals
 
-![](Develop/assets/images/horiseon-screenshot.png)
+![Screenshot](Develop/assets/images/horiseon-screenshot.png)
 
 ## Deployed Link
 
