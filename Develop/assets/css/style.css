@@ -12,7 +12,7 @@ p {
     font-size: 16px;
 }
 
-/*organized font-family so the same font-family wasn't listed in multiple locations*/
+/*Applied the font-family to multiple elements at once*/
 #header, #footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -20,7 +20,7 @@ p {
 nav, #content, #benefits {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
+ 
 /*reordered css to follow HTML layout*/
 
 /*header*/
