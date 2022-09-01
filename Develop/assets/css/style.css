@@ -12,7 +12,7 @@ p {
     font-size: 16px;
 }
 
-/*Applied the font-family to multiple elements at once*/
+/*applied the font-family to multiple elements at once*/
 #header, #footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -76,6 +76,7 @@ a {
     margin-left: 20px;
 }
 
+/*added class content to combine the styles below into one element in css*/
 .content {
     margin-bottom: 20px;
     padding: 50px;
@@ -114,6 +115,7 @@ h2 {
     background-color: #2589bd;
 }
 
+/*added class benefit to combine the styles below into one element in css*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
